@@ -51,4 +51,6 @@ Excepciones
 
 En el caso de que el profesor no tenga horarios disponibles para registrar un nuevo grupo, el sistema podría realizar las siguientes acciones:
 
-Mostrar un mensaje de error al profesor que indique que no tiene horarios disponibles p
+Mostrar un mensaje de error al profesor que indique que no tiene horarios disponibles.
+
+Ofrecer al profesor la opción de gestionar los horarios antes de continuar.
